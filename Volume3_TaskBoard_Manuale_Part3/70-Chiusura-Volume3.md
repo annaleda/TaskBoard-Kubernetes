@@ -1,6 +1,5 @@
 # Chiusura Volume 3
 
-## Competenze acquisite
 
 - ServiceAccount
 - RBAC
