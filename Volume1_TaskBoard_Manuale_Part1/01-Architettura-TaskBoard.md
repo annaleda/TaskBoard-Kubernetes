@@ -45,6 +45,3 @@ taskboard/
 └── k8s/
 ```
 
-## Esercizio
-
-Disegna la stessa architettura indicando quali componenti saranno container e quali risorse Kubernetes.
