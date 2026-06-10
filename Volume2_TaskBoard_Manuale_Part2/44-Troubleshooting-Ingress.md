@@ -1,3 +1,6 @@
+[Home](../README.md) | [Home Volume 2]()
+
+---
 # Troubleshooting Ingress
 
 ## Errori comuni
