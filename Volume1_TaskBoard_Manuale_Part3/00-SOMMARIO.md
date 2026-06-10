@@ -4,8 +4,11 @@
 ---
 ### Volume 1 - Docker, Kind e Kubernetes Core Parte 3
 
--  [01-Architettura-TaskBoard](./01-Architettura-TaskBoard.md)
--  [02-Backend-FastAPI](./02-Backend-FastAPI.md)
--  [03-Docker-Fondamenti](./03-Docker-Fondamenti.md)
--  [04-Kind-e-Primo-Cluster](./04-Kind-e-Primo-Cluster.md)
--  [05-Pod](./05-Pod.md)
+
+- [15-Lab-Pod-Standalone](./15-Lab-Pod-Standalone.md)
+- [16-Lab-MultiContainer](./16-Lab-MultiContainer.md)
+- [17-Troubleshooting-CrashLoop](./17-Troubleshooting-CrashLoop.md)
+- [18-Troubleshooting-ImagePull](./18-Troubleshooting-ImagePull.md)
+- [19-Debugging](./19-Debugging.md)
+- [20-Progetto-Parte1](./20-Progetto-Parte1.md)
+- [21-Checklist-Volume1](./21-Checklist-Volume1.md)
