@@ -2,7 +2,7 @@
 | [Volume 3](../Volume3_TaskBoard_Manuale_Part1/00-SOMMARIO.md) >>
 
 ---
-### Volume 1 - Docker, Kind e Kubernetes Core
+### Volume 2 - Configurazione, Storage e Networking Part 2
 
 -  [01-Architettura-TaskBoard](./01-Architettura-TaskBoard.md)
 -  [02-Backend-FastAPI](./02-Backend-FastAPI.md)
