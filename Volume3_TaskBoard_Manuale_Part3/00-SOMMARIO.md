@@ -3,8 +3,14 @@
 
 ---
 ### Volume 3 Security, Limits, Probes, Jobs Part 3
--  [01-Architettura-TaskBoard](./01-Architettura-TaskBoard.md)
--  [02-Backend-FastAPI](./02-Backend-FastAPI.md)
--  [03-Docker-Fondamenti](./03-Docker-Fondamenti.md)
--  [04-Kind-e-Primo-Cluster](./04-Kind-e-Primo-Cluster.md)
--  [05-Pod](./05-Pod.md)
+- [60-Rolling-Update](./60-Rolling-Update.md)
+- [61-Rollback](./61-Rollback.md)
+- [62-Jobs](./62-Jobs.md)
+- [63-CronJobs](./63-CronJobs.md)
+- [64-FailedScheduling](./64-FailedScheduling.md)
+- [65-FailedMount](./65-FailedMount.md)
+- [66-DNS-Issues](./66-DNS-Issues.md)
+- [67-NetworkPolicy-Issues](./67-NetworkPolicy-Issues.md)
+- [68-Debug-Workflow](./68-Debug-Workflow.md)
+- [69-Simulazione-Finale](./69-Simulazione-Finale.md)
+- [70-Chiusura-Volume3](./70-Chiusura-Volume3.md)
