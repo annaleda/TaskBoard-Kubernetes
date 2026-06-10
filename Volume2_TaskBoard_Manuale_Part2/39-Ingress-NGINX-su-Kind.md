@@ -1,4 +1,7 @@
-# Ingress NGINX su Kind
+[Home](../README.md) | [Home Volume 2]()
+
+---
+### Ingress NGINX su Kind
 
 ## Obiettivo
 
