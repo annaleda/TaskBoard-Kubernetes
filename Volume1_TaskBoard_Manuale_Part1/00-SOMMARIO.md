@@ -1,4 +1,4 @@
-[Home](../../README.md) | [Volume successivo](../Volume1_TaskBoard_Manuale_Part2/00-SOMMARIO.md) >>
+[Home](../README.md) | [Volume successivo](../Volume1_TaskBoard_Manuale_Part2/00-SOMMARIO.md) >>
 
 ---
 ### Volume 1 - Docker, Kind e Kubernetes Core
