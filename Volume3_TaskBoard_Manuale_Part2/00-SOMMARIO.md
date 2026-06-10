@@ -4,8 +4,12 @@
 ---
 ### Volume 3 Security, Limits, Probes, Jobs Part 2
 
--  [01-Architettura-TaskBoard](./01-Architettura-TaskBoard.md)
--  [02-Backend-FastAPI](./02-Backend-FastAPI.md)
--  [03-Docker-Fondamenti](./03-Docker-Fondamenti.md)
--  [04-Kind-e-Primo-Cluster](./04-Kind-e-Primo-Cluster.md)
--  [05-Pod](./05-Pod.md)
+- [51-ReadinessProbe](./51-ReadinessProbe.md)
+- [52-LivenessProbe](./52-LivenessProbe.md)
+- [53-StartupProbe](./53-StartupProbe.md)
+- [54-Requests-e-Limits](./54-Requests-e-Limits.md)
+- [55-QoS-e-OOMKilled](./55-QoS-e-OOMKilled.md)
+- [56-Lab-Probes](./56-Lab-Probes.md)
+- [57-Lab-Resources](./57-Lab-Resources.md)
+- [58-Troubleshooting-Probes](./58-Troubleshooting-Probes.md)
+- [59-Checklist-Volume3-Part2](./59-Checklist-Volume3-Part2.md)
