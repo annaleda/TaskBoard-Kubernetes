@@ -5,8 +5,8 @@
 
 ### Volume 3 Security, Limits, Probes, Jobs Part 1
 
--  [01-Architettura-TaskBoard](./01-Architettura-TaskBoard.md)
--  [02-Backend-FastAPI](./02-Backend-FastAPI.md)
--  [03-Docker-Fondamenti](./03-Docker-Fondamenti.md)
--  [04-Kind-e-Primo-Cluster](./04-Kind-e-Primo-Cluster.md)
--  [05-Pod](./05-Pod.md)
+- [46-ServiceAccount](./46-ServiceAccount.md)
+- [47-RBAC](./47-RBAC.md)
+- [48-RoleBinding](./48-RoleBinding.md)
+- [49-Lab-RBAC](./49-Lab-RBAC.md)
+- [50-SecurityContext](./50-SecurityContext.md)
