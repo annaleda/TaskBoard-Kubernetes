@@ -4,8 +4,10 @@
 ---
 ### Volume 2 - Configurazione, Storage e Networking Part 2
 
--  [01-Architettura-TaskBoard](./01-Architettura-TaskBoard.md)
--  [02-Backend-FastAPI](./02-Backend-FastAPI.md)
--  [03-Docker-Fondamenti](./03-Docker-Fondamenti.md)
--  [04-Kind-e-Primo-Cluster](./04-Kind-e-Primo-Cluster.md)
--  [05-Pod](./05-Pod.md)
+- [39-Ingress-NGINX-su-Kind](./39-Ingress-NGINX-su-Kind.md)
+- [40-Ingress](./40-Ingress.md)
+- [41-Test-Ingress](./41-Test-Ingress.md)
+- [42-NetworkPolicy](./42-NetworkPolicy.md)
+- [43-Lab-NetworkPolicy](./43-Lab-NetworkPolicy.md)
+- [44-Troubleshooting-Ingress](./44-Troubleshooting-Ingress.md)
+- [45-EndToEnd-Lab](./45-EndToEnd-Lab.md)
