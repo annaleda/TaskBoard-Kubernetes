@@ -1,3 +1,7 @@
+[Home](../README.md) | Parte 1](../Volume1_TaskBoard_Manuale_Part1/00-SOMMARIO.md) << | [Parte 3](../Volume1_TaskBoard_Manuale_Part3/00-SOMMARIO.md) >>
+| [Volume 2](../Volume2_TaskBoard_Manuale_Part1/00-SOMMARIO.md) >>
+
+---
 ### Volume 1 - Docker, Kind e Kubernetes Core Parte 2
 
 -  [06-Frontend-React](./06-Frontend-React.md)
