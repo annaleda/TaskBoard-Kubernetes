@@ -1,6 +1,9 @@
-# Architettura TaskBoard
+[Home]() | [Home Volume 1]() | << [Capitolo precedente](04-Kind-e-Primo-Cluster.md) | >> [Capitolo successivo](06-ReplicaSet.md)
 
-## Obiettivo
+---
+
+### Architettura TaskBoard
+
 
 Costruire una piattaforma full-stack composta da:
 
