@@ -14,13 +14,13 @@
 
 - Prerequisiti
   ```
-  Taskboard/
-├── backend/
-│   ├── app.py
-│   ├── requirements.txt
-│   └── Dockerfile
-├── frontend/
-├── k8s/
-├── kind-config.yaml
-└── docker-compose.yaml
+    Taskboard/
+  ├── backend/
+  │   ├── app.py
+  │   ├── requirements.txt
+  │   └── Dockerfile
+  ├── frontend/
+  ├── k8s/
+  ├── kind-config.yaml
+  └── docker-compose.yaml
 ```
