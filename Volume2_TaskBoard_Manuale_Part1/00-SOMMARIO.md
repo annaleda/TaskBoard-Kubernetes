@@ -13,7 +13,7 @@
 - [38-Checklist-Volume2-Part1](./38-Checklist-Volume2-Part1.md)
 
 - Prerequisiti
-  
+  ```
   Taskboard/
 ├── backend/
 │   ├── app.py
@@ -23,3 +23,4 @@
 ├── k8s/
 ├── kind-config.yaml
 └── docker-compose.yaml
+```
