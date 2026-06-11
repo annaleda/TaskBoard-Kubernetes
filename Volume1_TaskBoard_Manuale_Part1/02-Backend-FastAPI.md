@@ -91,6 +91,9 @@ docker run -p 8000:8000 taskboard-api:v1
 ```bash
 curl localhost:8000/health
 ```
+```bash
+Invoke-RestMethod http://localhost:8000/health
+```
 
 Risultato:
 
