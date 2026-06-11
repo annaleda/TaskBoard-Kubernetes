@@ -75,14 +75,14 @@ CMD ["uvicorn", "app:app", "--host", "0.0.0.0", "--port", "8000"]
 ## Build dell'immagine
 
 Dalla directory `backend`:
-
+```
 ```bash
 docker build -t taskboard-api:v1 .
 ```
 
 ```md
 ## Esecuzione del container
-
+```
 ```bash
 docker run -p 8000:8000 taskboard-api:v1
 ```
