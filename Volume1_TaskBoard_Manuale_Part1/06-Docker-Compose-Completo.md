@@ -1,6 +1,6 @@
 # Docker Compose Completo
 
-[🏠 Home](../README.md) | [📚 Volume 1](./00-SOMMARIO.md) | [<< Dockerfile Frontend](./05-Dockerfile-Frontend.md) | [Kind >>](./07-Kind-e-Primo-Cluster.md)
+[ Home](../README.md) | [ Volume 1](./00-SOMMARIO.md) | [<< Dockerfile Frontend](./05-Dockerfile-Frontend.md) 
 
 ---
 
@@ -328,4 +328,4 @@ Se il backend funziona ma il frontend no, controllare:
 
 ---
 
-[<< Dockerfile Frontend](./05-Dockerfile-Frontend.md) | [📚 Volume 1](./00-SOMMARIO.md) | [Kind >>](./07-Kind-e-Primo-Cluster.md)
+[<< Dockerfile Frontend](./05-Dockerfile-Frontend.md) | [ Volume 1](./00-SOMMARIO.md) 
