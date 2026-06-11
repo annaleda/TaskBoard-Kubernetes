@@ -295,4 +295,4 @@ npm install
 
 ---
 
-[<< Frontend React](./03-Frontend-React-Completo.md) | [📚 Volume 1](./00-SOMMARIO.md) | [Docker Compose >>](./06-Docker-Compose-Completo.md)
+[<< Frontend React](./03-Frontend-React-Completo.md) | [ Volume 1](./00-SOMMARIO.md) | [Docker Compose >>](./06-Docker-Compose-Completo.md)
