@@ -11,3 +11,15 @@
 - [36-Backend-ConfigMap-Secret](./36-Backend-ConfigMap-Secret.md)
 - [37-Lab-Postgres-Persistente](./37-Lab-Postgres-Persistente.md)
 - [38-Checklist-Volume2-Part1](./38-Checklist-Volume2-Part1.md)
+
+- Prerequisiti
+  
+  Taskboard/
+├── backend/
+│   ├── app.py
+│   ├── requirements.txt
+│   └── Dockerfile
+├── frontend/
+├── k8s/
+├── kind-config.yaml
+└── docker-compose.yaml
