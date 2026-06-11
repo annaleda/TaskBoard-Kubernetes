@@ -1,6 +1,6 @@
 # Dockerfile Frontend React
 
-[🏠 Home](../README.md) | [📚 Volume 1](./00-SOMMARIO.md) | [<< Frontend React](./03-Frontend-React-Completo.md) | [Docker Compose >>](./06-Docker-Compose-Completo.md)
+[ Home](../README.md) | [ Volume 1](./00-SOMMARIO.md) | [<< Frontend React](./03-Frontend-React-Completo.md) | [Docker Compose >>](./06-Docker-Compose-Completo.md)
 
 ---
 
