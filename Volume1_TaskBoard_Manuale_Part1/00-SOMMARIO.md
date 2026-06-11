@@ -9,3 +9,6 @@
 -  [04-Kind-e-Primo-Cluster](./04-Kind-e-Primo-Cluster.md)
 -  [05-Pod](./05-Pod.md)
 -  [05.1-Frontend-React-Completo](./03-Frontend-React-Completo.md)
+-  [05.2-Dockerfile-Frontend](./05-Dockerfile-Frontend.md)
+-  [05.3-Docker-Compose-Completo](./06-Docker-Compose-Completo)
+
