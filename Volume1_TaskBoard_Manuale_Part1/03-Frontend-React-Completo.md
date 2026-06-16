@@ -33,7 +33,7 @@ FastAPI
 ## Creazione del progetto
 
 ```bash
-npm create vite@latest frontend -- --template react
+npm create vite@4 frontend -- --template react
 cd frontend
 npm install
 npm run dev
