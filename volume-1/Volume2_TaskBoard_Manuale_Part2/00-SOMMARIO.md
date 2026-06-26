@@ -1,4 +1,4 @@
-[Home](../README.md) | [Parte 1](../Volume2_TaskBoard_Manuale_Part1/00-SOMMARIO.md) << | [Volume 1](../Volume1_TaskBoard_Manuale_Part1/00-SOMMARIO.md) <<
+[Home](../../README.md) | [Parte 1](../Volume2_TaskBoard_Manuale_Part1/00-SOMMARIO.md) << | [Volume 1](../Volume1_TaskBoard_Manuale_Part1/00-SOMMARIO.md) <<
 | [Volume 3](../Volume3_TaskBoard_Manuale_Part1/00-SOMMARIO.md) >>
 
 ---
