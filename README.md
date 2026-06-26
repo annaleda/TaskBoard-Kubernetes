@@ -12,3 +12,6 @@
     - [Security, Limits, Probes, Jobs Part 1](./volume-1/Volume3_TaskBoard_Manuale_Part1/00-SOMMARIO.md)
     - [Security, Limits, Probes, Jobs Part 2](./volume-1/Volume3_TaskBoard_Manuale_Part2/00-SOMMARIO.md)
     - [Security, Limits, Probes, Jobs Part 3](./volume-1/Volume3_TaskBoard_Manuale_Part3/00-SOMMARIO.md)
+ ---
+  <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ccf5b373-ce91-494b-b51e-dc5cd220f326" />
+
